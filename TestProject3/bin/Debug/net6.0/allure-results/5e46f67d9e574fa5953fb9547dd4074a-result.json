@@ -1,0 +1,91 @@
+{
+  "uuid": "fe59b34c2b8e4163a05fb014137dfb21",
+  "historyId": "Get by Id",
+  "fullName": "Get by Id",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U8QBAAO"
+    },
+    {
+      "name": "feature",
+      "value": "Get Posts"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "regresion"
+    }
+  ],
+  "links": [],
+  "name": "Get by Id",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have an Id with value 17",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686109559948,
+      "stop": 1686109560021
+    },
+    {
+      "name": "When  I send I get request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686109560023,
+      "stop": 1686109560447
+    },
+    {
+      "name": "Then  I expected a valid code response",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686109560448,
+      "stop": 1686109560492
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686109559923,
+  "stop": 1686109560499
+}

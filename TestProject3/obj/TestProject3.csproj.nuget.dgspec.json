@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Display\\source\\repos\\GH\\SpecFlowReportML\\TestProject3\\TestProject3.csproj": {}
+    "C:\\Users\\Display\\source\\repos\\GH\\ProjectFinalML\\TestProject3\\TestProject3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Display\\source\\repos\\GH\\SpecFlowReportML\\TestProject3\\TestProject3.csproj": {
+    "C:\\Users\\Display\\source\\repos\\GH\\ProjectFinalML\\TestProject3\\TestProject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Display\\source\\repos\\GH\\SpecFlowReportML\\TestProject3\\TestProject3.csproj",
+        "projectUniqueName": "C:\\Users\\Display\\source\\repos\\GH\\ProjectFinalML\\TestProject3\\TestProject3.csproj",
         "projectName": "TestProject3",
-        "projectPath": "C:\\Users\\Display\\source\\repos\\GH\\SpecFlowReportML\\TestProject3\\TestProject3.csproj",
+        "projectPath": "C:\\Users\\Display\\source\\repos\\GH\\ProjectFinalML\\TestProject3\\TestProject3.csproj",
         "packagesPath": "C:\\Users\\Display\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Display\\source\\repos\\GH\\SpecFlowReportML\\TestProject3\\obj\\",
+        "outputPath": "C:\\Users\\Display\\source\\repos\\GH\\ProjectFinalML\\TestProject3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

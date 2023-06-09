@@ -1,0 +1,151 @@
+{
+  "uuid": "d9849bbb03694d5592bb5132db562cec",
+  "historyId": "Post Product",
+  "fullName": "Post Product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U8QBAAO"
+    },
+    {
+      "name": "feature",
+      "value": "Get Posts"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "caso2"
+    }
+  ],
+  "links": [],
+  "name": "Post Product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a name with value Black Glass",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944344,
+      "stop": 1686236944349
+    },
+    {
+      "name": "Given  I have a description with value Black Glass",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944349,
+      "stop": 1686236944351
+    },
+    {
+      "name": "Given  I have a image with value black-glass.jpg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944351,
+      "stop": 1686236944353
+    },
+    {
+      "name": "Given  I have a price with value 20.50",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944353,
+      "stop": 1686236944358
+    },
+    {
+      "name": "Given  I have a categoryId with value 7",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944358,
+      "stop": 1686236944361
+    },
+    {
+      "name": "When  I send I post request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944361,
+      "stop": 1686236944809
+    },
+    {
+      "name": "Then  I expected a valid code response",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "running",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686236944809,
+      "stop": 0
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686236944344,
+  "stop": 1686236944814
+}
