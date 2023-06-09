@@ -1,0 +1,91 @@
+{
+  "uuid": "01660cb25d794a44b602e032d7bb9974",
+  "historyId": "Get all produts",
+  "fullName": "Get all produts",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U8QBAAO"
+    },
+    {
+      "name": "feature",
+      "value": "Get Posts"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "caso2"
+    }
+  ],
+  "links": [],
+  "name": "Get all produts",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have the url complement",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686277659197,
+      "stop": 1686277659301
+    },
+    {
+      "name": "When  I send I get all request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686277659304,
+      "stop": 1686277659754
+    },
+    {
+      "name": "Then  I expected a valid code response get all",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686277659754,
+      "stop": 1686277659796
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686277659159,
+  "stop": 1686277659802
+}

@@ -1,0 +1,106 @@
+{
+  "uuid": "14b45455fac543b3bbdc9d4b6e001144",
+  "historyId": "Put Product",
+  "fullName": "Put Product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az283-39"
+    },
+    {
+      "name": "feature",
+      "value": "Get Posts"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "caso4"
+    }
+  ],
+  "links": [],
+  "name": "Put Product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I want edit a product with id 17",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686279090244,
+      "stop": 1686279090245
+    },
+    {
+      "name": "And  I edit a name with value Black Glass and description with value Black Glass and image with value black-glass.jpg and price with value 20.50 and categoryId with value 7",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686279090246,
+      "stop": 1686279090246
+    },
+    {
+      "name": "When  I send I put request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686279090246,
+      "stop": 1686279090341
+    },
+    {
+      "name": "Then  I expected a valid code response put",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686279090341,
+      "stop": 1686279090342
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686279090244,
+  "stop": 1686279090342
+}

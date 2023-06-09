@@ -1,0 +1,91 @@
+{
+  "uuid": "2be2971af24c4f55b67c9f90162201dd",
+  "historyId": "Post Product",
+  "fullName": "Post Product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U8QBAAO"
+    },
+    {
+      "name": "feature",
+      "value": "Get Posts"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "caso3"
+    }
+  ],
+  "links": [],
+  "name": "Post Product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a name with value Black Glass and description with value Black Glass and image with value black-glass.jpg and price with value 20.50 and categoryId with value 7",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686278417288,
+      "stop": 1686278417298
+    },
+    {
+      "name": "When  I send I post request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686278417298,
+      "stop": 1686278417923
+    },
+    {
+      "name": "Then  I expected a valid code response post",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686278417924,
+      "stop": 1686278417927
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686278417288,
+  "stop": 1686278417927
+}
